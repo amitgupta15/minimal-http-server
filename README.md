@@ -2,7 +2,7 @@
 Simple http server built for static files built in Node.js without any framework.
 
 ## Usage
-Import the server in the Node project
+Import the server in a Node project
 
 `const server = require('./minimal-http-server');`
 
