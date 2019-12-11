@@ -1,8 +1,9 @@
 # minimal-http-server
-No framework minimal http server built with Node.js
+Simple http server built for static files built in Node.js without any framework.
 
 ## Usage
 Import the server in the Node project
+
 `const server = require('./minimal-http-server');`
 
 Start the server by calling `init()` method
